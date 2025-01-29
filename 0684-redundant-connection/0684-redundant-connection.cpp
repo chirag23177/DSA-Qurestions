@@ -1,62 +1,54 @@
 class Solution {
-    class DSU {
-    private:
-        int N;
-        vector<int> size;
-        vector<int> representative;
+private:
+    int cycleStart = -1;
 
-    public:
-        // Initialize DSU class, size of each component will be one and each
-        // node will be representative of it's own.
-        DSU(int N) {
-            this->N = N;
+    // Peform the DFS and store a node in the cycle as cycleStart.
+    void DFS(int src, vector<bool> &visited, vector<int> adjList[],
+             vector<int> &parent) {
+        visited[src] = true;
 
-            for (int node = 0; node < N; node++) {
-                size.push_back(1);
-                representative.push_back(node);
+        for (int adj : adjList[src]) {
+            if (!visited[adj]) {
+                parent[adj] = src;
+                DFS(adj, visited, adjList, parent);
+                // If the node is visited and the parent is different then the
+                // node is part of the cycle.
+            } else if (adj != parent[src] && cycleStart == -1) {
+                cycleStart = adj;
+                parent[adj] = src;
             }
         }
-
-        // Returns the ultimate representative of the node.
-        int find(int node) {
-            if (representative[node] == node) {
-                return node;
-            }
-
-            return representative[node] = find(representative[node]);
-        }
-
-        // Returns true if nodeOne and nodeTwo belong to different component and
-        // update the representatives accordingly, otherwise returns false.
-        bool doUnion(int nodeOne, int nodeTwo) {
-            nodeOne = find(nodeOne);
-            nodeTwo = find(nodeTwo);
-
-            if (nodeOne == nodeTwo) {
-                return 0;
-            } else {
-                if (size[nodeOne] > size[nodeTwo]) {
-                    representative[nodeTwo] = nodeOne;
-                    size[nodeOne] += size[nodeTwo];
-                } else {
-                    representative[nodeOne] = nodeTwo;
-                    size[nodeTwo] += size[nodeOne];
-                }
-                return 1;
-            }
-        }
-    };
+    }
 
 public:
-    vector<int> findRedundantConnection(vector<vector<int>>& edges) {
+    vector<int> findRedundantConnection(vector<vector<int>> &edges) {
         int N = edges.size();
 
-        DSU dsu(N);
+        vector<bool> visited(N, false);
+        vector<int> parent(N, -1);
+
+        vector<int> adjList[N];
         for (auto edge : edges) {
-            // If union returns false, we know the nodes are already connected
-            // and hence we can return this edge.
-            if (!dsu.doUnion(edge[0] - 1, edge[1] - 1)) {
-                return edge;
+            adjList[edge[0] - 1].push_back(edge[1] - 1);
+            adjList[edge[1] - 1].push_back(edge[0] - 1);
+        }
+
+        DFS(0, visited, adjList, parent);
+
+        unordered_map<int, int> cycleNodes;
+        int node = cycleStart;
+        // Start from the cycleStart node and backtrack to get all the nodes in
+        // the cycle. Mark them all in the map.
+        do {
+            cycleNodes[node] = 1;
+            node = parent[node];
+        } while (node != cycleStart);
+
+        // If both nodes of the edge were marked as cycle nodes then this edge
+        // can be removed.
+        for (int i = edges.size() - 1; i >= 0; i--) {
+            if (cycleNodes[edges[i][0] - 1] && cycleNodes[edges[i][1] - 1]) {
+                return edges[i];
             }
         }
 
