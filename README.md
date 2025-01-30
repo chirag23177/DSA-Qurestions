@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/chirag23177/DSA-Qurestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0407-trapping-rain-water-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/chirag23177/DSA-Qurestions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/chirag23177/DSA-Qurestions/tree/master/0684-redundant-connection) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/chirag23177/DSA-Qurestions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/chirag23177/DSA-Qurestions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
