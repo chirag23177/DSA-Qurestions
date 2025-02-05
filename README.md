@@ -98,8 +98,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/chirag23177/DSA-Qurestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0142-linked-list-cycle-ii) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/chirag23177/DSA-Qurestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/chirag23177/DSA-Qurestions/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/chirag23177/DSA-Qurestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/chirag23177/DSA-Qurestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
