@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/chirag23177/DSA-Qurestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/chirag23177/DSA-Qurestions/tree/master/0053-maximum-subarray) |
 | [0407-trapping-rain-water-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0407-trapping-rain-water-ii) |
+| [1364-tuple-with-same-product](https://github.com/chirag23177/DSA-Qurestions/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/chirag23177/DSA-Qurestions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/chirag23177/DSA-Qurestions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/chirag23177/DSA-Qurestions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/chirag23177/DSA-Qurestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0142-linked-list-cycle-ii) |
+| [1364-tuple-with-same-product](https://github.com/chirag23177/DSA-Qurestions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/chirag23177/DSA-Qurestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Stack
 |  |
@@ -110,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/chirag23177/DSA-Qurestions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/chirag23177/DSA-Qurestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
