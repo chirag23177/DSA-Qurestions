@@ -112,10 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/chirag23177/DSA-Qurestions/tree/master/0234-palindrome-linked-list) |
+| [3447-clear-digits](https://github.com/chirag23177/DSA-Qurestions/tree/master/3447-clear-digits) |
 ## String
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/chirag23177/DSA-Qurestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/chirag23177/DSA-Qurestions/tree/master/3447-clear-digits) |
 ## Counting
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/chirag23177/DSA-Qurestions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/chirag23177/DSA-Qurestions/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
