@@ -1,36 +1,35 @@
 class Solution {
 public:
-
-
-    bool check(vector<int>& ranks, int cars, long long mid) {
-        long long total = 0;
-        long long n = ranks.size();
-
-        for (int i = n - 1; i >= 0; i--) {
-            total += floor(sqrt(mid / ranks[i]));  
-            if (total >=cars) {
-                return true;
-            }
+    long repairCars(vector<int>& ranks, int cars) {
+        int minRank = ranks[0], maxRank = ranks[0];
+        for (int rank : ranks) {
+            minRank = min(minRank, rank);
+            maxRank = max(maxRank, rank);
         }
-        return false;
-    }
 
-    long long repairCars(vector<int>& ranks, int cars) {
-        
-        long long high = 0;
-        sort(ranks.begin(), ranks.end());
-        high = 1LL*ranks[0] * (cars) * (cars);
-        long long low = 0;
+        vector<int> freq(maxRank + 1);
+        for (int rank : ranks) {
+            minRank = min(minRank, rank);
+            freq[rank]++;
+        }
 
-        while (low <high) {
-            long long mid = low + (high - low) / 2;  
-            if (check(ranks, cars, mid)) {  
-                high = mid;
+        long long low = 1, high = 1LL * minRank * cars * cars;
+
+        while (low < high) {
+            long long mid = (low + high) / 2;
+            long long carsRepaired = 0;
+            for (int rank = 1; rank <= maxRank; rank++) {
+                carsRepaired +=
+                    freq[rank] * (long long)sqrt(mid / (long long)rank);
+            }
+
+            if (carsRepaired >= cars) {
+                high = mid;  
             } else {
-                low = mid + 1;
+                low = mid + 1; 
             }
         }
-      
+
         return low;
     }
 };
