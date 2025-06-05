@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chirag23177/DSA-Qurestions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/chirag23177/DSA-Qurestions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/chirag23177/DSA-Qurestions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/chirag23177/DSA-Qurestions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/chirag23177/DSA-Qurestions/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0407-trapping-rain-water-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/chirag23177/DSA-Qurestions/tree/master/0684-redundant-connection) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/chirag23177/DSA-Qurestions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chirag23177/DSA-Qurestions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/chirag23177/DSA-Qurestions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/chirag23177/DSA-Qurestions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/chirag23177/DSA-Qurestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/chirag23177/DSA-Qurestions/tree/master/0217-contains-duplicate) |
