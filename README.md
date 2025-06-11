@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/chirag23177/DSA-Qurestions/tree/master/0695-max-area-of-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1036-rotting-oranges](https://github.com/chirag23177/DSA-Qurestions/tree/master/1036-rotting-oranges) |
 | [1364-tuple-with-same-product](https://github.com/chirag23177/DSA-Qurestions/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/chirag23177/DSA-Qurestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chirag23177/DSA-Qurestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/chirag23177/DSA-Qurestions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/chirag23177/DSA-Qurestions/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/chirag23177/DSA-Qurestions/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/chirag23177/DSA-Qurestions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/chirag23177/DSA-Qurestions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/chirag23177/DSA-Qurestions/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/chirag23177/DSA-Qurestions/tree/master/1036-rotting-oranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/chirag23177/DSA-Qurestions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/chirag23177/DSA-Qurestions/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
