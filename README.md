@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/chirag23177/DSA-Qurestions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/chirag23177/DSA-Qurestions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/chirag23177/DSA-Qurestions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/chirag23177/DSA-Qurestions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/chirag23177/DSA-Qurestions/tree/master/0238-product-of-array-except-self) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/chirag23177/DSA-Qurestions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/chirag23177/DSA-Qurestions/tree/master/0684-redundant-connection) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/chirag23177/DSA-Qurestions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/chirag23177/DSA-Qurestions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/chirag23177/DSA-Qurestions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0407-trapping-rain-water-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/chirag23177/DSA-Qurestions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/chirag23177/DSA-Qurestions/tree/master/3227-find-missing-and-repeated-values) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/chirag23177/DSA-Qurestions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/chirag23177/DSA-Qurestions/tree/master/0684-redundant-connection) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/chirag23177/DSA-Qurestions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/chirag23177/DSA-Qurestions/tree/master/0684-redundant-connection) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/chirag23177/DSA-Qurestions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
