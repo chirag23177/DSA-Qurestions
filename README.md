@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/chirag23177/DSA-Qurestions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/chirag23177/DSA-Qurestions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0213-house-robber-ii) |
+| [0647-palindromic-substrings](https://github.com/chirag23177/DSA-Qurestions/tree/master/0647-palindromic-substrings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chirag23177/DSA-Qurestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/chirag23177/DSA-Qurestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/chirag23177/DSA-Qurestions/tree/master/0234-palindrome-linked-list) |
+| [0647-palindromic-substrings](https://github.com/chirag23177/DSA-Qurestions/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/chirag23177/DSA-Qurestions/tree/master/0908-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/chirag23177/DSA-Qurestions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/chirag23177/DSA-Qurestions/tree/master/2551-apply-operations-to-an-array) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/chirag23177/DSA-Qurestions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/chirag23177/DSA-Qurestions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/chirag23177/DSA-Qurestions/tree/master/0242-valid-anagram) |
+| [0647-palindromic-substrings](https://github.com/chirag23177/DSA-Qurestions/tree/master/0647-palindromic-substrings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/chirag23177/DSA-Qurestions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/1170-shortest-common-supersequence) |
