@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/chirag23177/DSA-Qurestions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/chirag23177/DSA-Qurestions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0128-longest-consecutive-sequence) |
+| [0198-house-robber](https://github.com/chirag23177/DSA-Qurestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/chirag23177/DSA-Qurestions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/chirag23177/DSA-Qurestions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0219-contains-duplicate-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/chirag23177/DSA-Qurestions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/chirag23177/DSA-Qurestions/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/chirag23177/DSA-Qurestions/tree/master/0198-house-robber) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chirag23177/DSA-Qurestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
