@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/chirag23177/DSA-Qurestions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/chirag23177/DSA-Qurestions/tree/master/0070-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chirag23177/DSA-Qurestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/chirag23177/DSA-Qurestions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/chirag23177/DSA-Qurestions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/chirag23177/DSA-Qurestions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/chirag23177/DSA-Qurestions/tree/master/0231-power-of-two) |
 | [1477-product-of-the-last-k-numbers](https://github.com/chirag23177/DSA-Qurestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chirag23177/DSA-Qurestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/chirag23177/DSA-Qurestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0210-course-schedule-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/chirag23177/DSA-Qurestions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
