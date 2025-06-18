@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chirag23177/DSA-Qurestions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/chirag23177/DSA-Qurestions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/chirag23177/DSA-Qurestions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/chirag23177/DSA-Qurestions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/chirag23177/DSA-Qurestions/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/chirag23177/DSA-Qurestions/tree/master/0139-word-break) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/chirag23177/DSA-Qurestions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/chirag23177/DSA-Qurestions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/chirag23177/DSA-Qurestions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/chirag23177/DSA-Qurestions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/chirag23177/DSA-Qurestions/tree/master/0231-power-of-two) |
 | [1477-product-of-the-last-k-numbers](https://github.com/chirag23177/DSA-Qurestions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/chirag23177/DSA-Qurestions/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/chirag23177/DSA-Qurestions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
