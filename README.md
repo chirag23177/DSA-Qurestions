@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/chirag23177/DSA-Qurestions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/chirag23177/DSA-Qurestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/chirag23177/DSA-Qurestions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/chirag23177/DSA-Qurestions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/chirag23177/DSA-Qurestions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/chirag23177/DSA-Qurestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/chirag23177/DSA-Qurestions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/chirag23177/DSA-Qurestions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/chirag23177/DSA-Qurestions/tree/master/0695-max-area-of-island) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0226-invert-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0226-invert-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Number Theory
