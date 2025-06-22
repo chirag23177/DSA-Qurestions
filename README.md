@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/chirag23177/DSA-Qurestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/chirag23177/DSA-Qurestions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/chirag23177/DSA-Qurestions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chirag23177/DSA-Qurestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/chirag23177/DSA-Qurestions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/chirag23177/DSA-Qurestions/tree/master/0684-redundant-connection) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/chirag23177/DSA-Qurestions/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/chirag23177/DSA-Qurestions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/chirag23177/DSA-Qurestions/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/chirag23177/DSA-Qurestions/tree/master/0647-palindromic-substrings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/chirag23177/DSA-Qurestions/tree/master/1160-letter-tile-possibilities) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/chirag23177/DSA-Qurestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/chirag23177/DSA-Qurestions/tree/master/2434-design-a-number-container-system) |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chirag23177/DSA-Qurestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0572-subtree-of-another-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -385,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chirag23177/DSA-Qurestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0572-subtree-of-another-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
