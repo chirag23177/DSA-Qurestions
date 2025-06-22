@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chirag23177/DSA-Qurestions/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/chirag23177/DSA-Qurestions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/chirag23177/DSA-Qurestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/chirag23177/DSA-Qurestions/tree/master/0234-palindrome-linked-list) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/chirag23177/DSA-Qurestions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/chirag23177/DSA-Qurestions/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/chirag23177/DSA-Qurestions/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/chirag23177/DSA-Qurestions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/chirag23177/DSA-Qurestions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/chirag23177/DSA-Qurestions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
