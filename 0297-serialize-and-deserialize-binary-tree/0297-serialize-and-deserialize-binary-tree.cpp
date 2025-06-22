@@ -12,21 +12,23 @@ public:
 
     void traverse(TreeNode* node, string& res){
         if(!node){
-            res.append("N,");
+            res.append("N");
+            res.append(",");
             return;
         }
 
-        res.append(to_string(node->val) + ",");
+        res.append(to_string(node->val));
+        res.append(",");
         traverse(node->left,res);
         traverse(node->right,res);
     }
 
     // Encodes a tree to a single string.
     string serialize(TreeNode* root) {
-        string res;
+        string res = "";
 
         traverse(root, res);
-        if (!res.empty()) res.pop_back();
+        res.pop_back();
         return res;
 
     }
@@ -56,7 +58,8 @@ public:
             values.push(token);
         }
 
-        return makeTree(values);
+        TreeNode* root = makeTree(values);
+        return root;        
     }
 };
 
