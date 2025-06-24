@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/chirag23177/DSA-Qurestions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/chirag23177/DSA-Qurestions/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/chirag23177/DSA-Qurestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/chirag23177/DSA-Qurestions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/chirag23177/DSA-Qurestions/tree/master/1364-tuple-with-same-product) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/chirag23177/DSA-Qurestions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/chirag23177/DSA-Qurestions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/chirag23177/DSA-Qurestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/chirag23177/DSA-Qurestions/tree/master/0647-palindromic-substrings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/chirag23177/DSA-Qurestions/tree/master/1160-letter-tile-possibilities) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chirag23177/DSA-Qurestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/chirag23177/DSA-Qurestions/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/chirag23177/DSA-Qurestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3483-alternating-groups-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
