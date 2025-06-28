@@ -10,6 +10,7 @@
  */
 class Solution {
 public:
+    // Helper function to merge two lists
     ListNode* mergeTwoList(ListNode* head1, ListNode* head2) {
         ListNode* dummy = new ListNode(0);
         ListNode* temp = dummy;
@@ -25,20 +26,31 @@ public:
             temp = temp->next;
         }
 
-        if(head1) temp->next = head1;
+        // Attach the remaining list
+        if (head1) temp->next = head1;
         else temp->next = head2;
 
         return dummy->next;
     }
 
+    // Main function to merge k lists
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.empty()) return nullptr;
-        ListNode* head = nullptr;
+        if (lists.empty()) return nullptr;
 
-        for(auto list : lists){
-            head = mergeTwoList(head, list);
+        while (lists.size() > 1) {
+            vector<ListNode*> merged;
+
+            for (int i = 0; i < lists.size(); i += 2) {
+                if (i + 1 < lists.size()) {
+                    merged.push_back(mergeTwoList(lists[i], lists[i + 1]));
+                } else {
+                    merged.push_back(lists[i]);
+                }
+            }
+
+            lists = merged;
         }
 
-        return head;
+        return lists[0];
     }
 };
