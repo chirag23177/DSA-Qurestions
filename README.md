@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/chirag23177/DSA-Qurestions/tree/master/0695-max-area-of-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1036-rotting-oranges](https://github.com/chirag23177/DSA-Qurestions/tree/master/1036-rotting-oranges) |
+| [1127-last-stone-weight](https://github.com/chirag23177/DSA-Qurestions/tree/master/1127-last-stone-weight) |
 | [1364-tuple-with-same-product](https://github.com/chirag23177/DSA-Qurestions/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/chirag23177/DSA-Qurestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chirag23177/DSA-Qurestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/chirag23177/DSA-Qurestions/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0407-trapping-rain-water-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chirag23177/DSA-Qurestions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/chirag23177/DSA-Qurestions/tree/master/1127-last-stone-weight) |
 | [2434-design-a-number-container-system](https://github.com/chirag23177/DSA-Qurestions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/chirag23177/DSA-Qurestions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
