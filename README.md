@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chirag23177/DSA-Qurestions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/chirag23177/DSA-Qurestions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/chirag23177/DSA-Qurestions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/chirag23177/DSA-Qurestions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chirag23177/DSA-Qurestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0128-longest-consecutive-sequence) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/chirag23177/DSA-Qurestions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/chirag23177/DSA-Qurestions/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/chirag23177/DSA-Qurestions/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/chirag23177/DSA-Qurestions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/chirag23177/DSA-Qurestions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
