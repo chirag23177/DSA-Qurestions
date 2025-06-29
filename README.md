@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/chirag23177/DSA-Qurestions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/chirag23177/DSA-Qurestions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/chirag23177/DSA-Qurestions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/chirag23177/DSA-Qurestions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chirag23177/DSA-Qurestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0128-longest-consecutive-sequence) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/chirag23177/DSA-Qurestions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/chirag23177/DSA-Qurestions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/chirag23177/DSA-Qurestions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/chirag23177/DSA-Qurestions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/chirag23177/DSA-Qurestions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/chirag23177/DSA-Qurestions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0100-same-tree) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/chirag23177/DSA-Qurestions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/chirag23177/DSA-Qurestions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/chirag23177/DSA-Qurestions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/chirag23177/DSA-Qurestions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/chirag23177/DSA-Qurestions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/chirag23177/DSA-Qurestions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/chirag23177/DSA-Qurestions/tree/master/0139-word-break) |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/chirag23177/DSA-Qurestions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/chirag23177/DSA-Qurestions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/chirag23177/DSA-Qurestions/tree/master/0079-word-search) |
 | [1160-letter-tile-possibilities](https://github.com/chirag23177/DSA-Qurestions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/chirag23177/DSA-Qurestions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
