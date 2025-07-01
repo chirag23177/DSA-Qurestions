@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/chirag23177/DSA-Qurestions/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/chirag23177/DSA-Qurestions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/chirag23177/DSA-Qurestions/tree/master/0435-non-overlapping-intervals) |
 | [0695-max-area-of-island](https://github.com/chirag23177/DSA-Qurestions/tree/master/0695-max-area-of-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1036-rotting-oranges](https://github.com/chirag23177/DSA-Qurestions/tree/master/1036-rotting-oranges) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/chirag23177/DSA-Qurestions/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/chirag23177/DSA-Qurestions/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/chirag23177/DSA-Qurestions/tree/master/0647-palindromic-substrings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/1170-shortest-common-supersequence) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chirag23177/DSA-Qurestions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/chirag23177/DSA-Qurestions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/chirag23177/DSA-Qurestions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/chirag23177/DSA-Qurestions/tree/master/0435-non-overlapping-intervals) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/chirag23177/DSA-Qurestions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Data Stream
 |  |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/chirag23177/DSA-Qurestions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chirag23177/DSA-Qurestions/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/chirag23177/DSA-Qurestions/tree/master/0435-non-overlapping-intervals) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/chirag23177/DSA-Qurestions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
