@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chirag23177/DSA-Qurestions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/chirag23177/DSA-Qurestions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/chirag23177/DSA-Qurestions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/chirag23177/DSA-Qurestions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/chirag23177/DSA-Qurestions/tree/master/0347-top-k-frequent-elements) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/chirag23177/DSA-Qurestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/chirag23177/DSA-Qurestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chirag23177/DSA-Qurestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/chirag23177/DSA-Qurestions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0300-longest-increasing-subsequence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chirag23177/DSA-Qurestions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/chirag23177/DSA-Qurestions/tree/master/2665-minimum-time-to-repair-cars) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/chirag23177/DSA-Qurestions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/chirag23177/DSA-Qurestions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/chirag23177/DSA-Qurestions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/chirag23177/DSA-Qurestions/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/chirag23177/DSA-Qurestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chirag23177/DSA-Qurestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/chirag23177/DSA-Qurestions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/chirag23177/DSA-Qurestions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/chirag23177/DSA-Qurestions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/chirag23177/DSA-Qurestions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/chirag23177/DSA-Qurestions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/chirag23177/DSA-Qurestions/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chirag23177/DSA-Qurestions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/chirag23177/DSA-Qurestions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/chirag23177/DSA-Qurestions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/chirag23177/DSA-Qurestions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/chirag23177/DSA-Qurestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -392,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/chirag23177/DSA-Qurestions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/chirag23177/DSA-Qurestions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chirag23177/DSA-Qurestions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/chirag23177/DSA-Qurestions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/chirag23177/DSA-Qurestions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/chirag23177/DSA-Qurestions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/chirag23177/DSA-Qurestions/tree/master/0435-non-overlapping-intervals) |
