@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/chirag23177/DSA-Qurestions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/chirag23177/DSA-Qurestions/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/chirag23177/DSA-Qurestions/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/chirag23177/DSA-Qurestions/tree/master/0647-palindromic-substrings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/chirag23177/DSA-Qurestions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/chirag23177/DSA-Qurestions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/chirag23177/DSA-Qurestions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/chirag23177/DSA-Qurestions/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
 | ------- |
