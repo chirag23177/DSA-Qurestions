@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/chirag23177/DSA-Qurestions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/chirag23177/DSA-Qurestions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/chirag23177/DSA-Qurestions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/chirag23177/DSA-Qurestions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/chirag23177/DSA-Qurestions/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/chirag23177/DSA-Qurestions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/chirag23177/DSA-Qurestions/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
