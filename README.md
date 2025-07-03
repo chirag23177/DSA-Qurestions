@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chirag23177/DSA-Qurestions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/chirag23177/DSA-Qurestions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/chirag23177/DSA-Qurestions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/chirag23177/DSA-Qurestions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/chirag23177/DSA-Qurestions/tree/master/0322-coin-change) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chirag23177/DSA-Qurestions/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/chirag23177/DSA-Qurestions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/chirag23177/DSA-Qurestions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/chirag23177/DSA-Qurestions/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0407-trapping-rain-water-ii) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/chirag23177/DSA-Qurestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/chirag23177/DSA-Qurestions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/chirag23177/DSA-Qurestions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/chirag23177/DSA-Qurestions/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/chirag23177/DSA-Qurestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3483-alternating-groups-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/3483-alternating-groups-ii) |
@@ -539,4 +542,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chirag23177/DSA-Qurestions/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/chirag23177/DSA-Qurestions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/chirag23177/DSA-Qurestions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
