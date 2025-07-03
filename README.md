@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/chirag23177/DSA-Qurestions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/chirag23177/DSA-Qurestions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chirag23177/DSA-Qurestions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/chirag23177/DSA-Qurestions/tree/master/0371-sum-of-two-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/chirag23177/DSA-Qurestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chirag23177/DSA-Qurestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/chirag23177/DSA-Qurestions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/chirag23177/DSA-Qurestions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chirag23177/DSA-Qurestions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/chirag23177/DSA-Qurestions/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/chirag23177/DSA-Qurestions/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
