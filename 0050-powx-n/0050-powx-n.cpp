@@ -1,13 +1,17 @@
 class Solution {
 public:
-    double myPow(double x, int n) {
-        return func(x, static_cast<long>(n));
-    }
+    double helper(double x, long n){
+        if(n == 0) return 1;
+        if(x == 0) return 0;
 
-    double func(double x, long n){
-        if(n==0)return 1;
-        if(n<0)return 1/func(x,-n);
-        if(n%2 == 0)return func(x*x, n/2);
-        else return x*func(x*x, (n-1)/2);
+        double res = helper(x, n / 2);
+        res = res * res;
+
+        return (n&1) ? res * x : res;
+    }
+    double myPow(double x, int n) {
+        long N = n;
+        double ans = helper(x, abs(N));
+        return (n >= 0) ? ans : 1/ans;
     }
 };
