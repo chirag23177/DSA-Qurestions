@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/chirag23177/DSA-Qurestions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/chirag23177/DSA-Qurestions/tree/master/0435-non-overlapping-intervals) |
 | [0695-max-area-of-island](https://github.com/chirag23177/DSA-Qurestions/tree/master/0695-max-area-of-island) |
+| [0808-number-of-matching-subsequences](https://github.com/chirag23177/DSA-Qurestions/tree/master/0808-number-of-matching-subsequences) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1036-rotting-oranges](https://github.com/chirag23177/DSA-Qurestions/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/chirag23177/DSA-Qurestions/tree/master/1127-last-stone-weight) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chirag23177/DSA-Qurestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/chirag23177/DSA-Qurestions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0300-longest-increasing-subsequence) |
+| [0808-number-of-matching-subsequences](https://github.com/chirag23177/DSA-Qurestions/tree/master/0808-number-of-matching-subsequences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chirag23177/DSA-Qurestions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/chirag23177/DSA-Qurestions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/chirag23177/DSA-Qurestions/tree/master/2690-house-robber-iv) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/chirag23177/DSA-Qurestions/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/chirag23177/DSA-Qurestions/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/chirag23177/DSA-Qurestions/tree/master/0647-palindromic-substrings) |
+| [0808-number-of-matching-subsequences](https://github.com/chirag23177/DSA-Qurestions/tree/master/0808-number-of-matching-subsequences) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/1250-longest-common-subsequence) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chirag23177/DSA-Qurestions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/chirag23177/DSA-Qurestions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/chirag23177/DSA-Qurestions/tree/master/0424-longest-repeating-character-replacement) |
+| [0808-number-of-matching-subsequences](https://github.com/chirag23177/DSA-Qurestions/tree/master/0808-number-of-matching-subsequences) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/chirag23177/DSA-Qurestions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/chirag23177/DSA-Qurestions/tree/master/1364-tuple-with-same-product) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/chirag23177/DSA-Qurestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/chirag23177/DSA-Qurestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/chirag23177/DSA-Qurestions/tree/master/0647-palindromic-substrings) |
+| [0808-number-of-matching-subsequences](https://github.com/chirag23177/DSA-Qurestions/tree/master/0808-number-of-matching-subsequences) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chirag23177/DSA-Qurestions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/chirag23177/DSA-Qurestions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/chirag23177/DSA-Qurestions/tree/master/1170-shortest-common-supersequence) |
@@ -405,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/chirag23177/DSA-Qurestions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/chirag23177/DSA-Qurestions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/chirag23177/DSA-Qurestions/tree/master/0435-non-overlapping-intervals) |
+| [0808-number-of-matching-subsequences](https://github.com/chirag23177/DSA-Qurestions/tree/master/0808-number-of-matching-subsequences) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/chirag23177/DSA-Qurestions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Data Stream
 |  |
@@ -519,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/chirag23177/DSA-Qurestions/tree/master/0139-word-break) |
+| [0808-number-of-matching-subsequences](https://github.com/chirag23177/DSA-Qurestions/tree/master/0808-number-of-matching-subsequences) |
 ## Combinatorics
 |  |
 | ------- |
