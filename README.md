@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/chirag23177/DSA-Qurestions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/chirag23177/DSA-Qurestions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/chirag23177/DSA-Qurestions/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/chirag23177/DSA-Qurestions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chirag23177/DSA-Qurestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chirag23177/DSA-Qurestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/chirag23177/DSA-Qurestions/tree/master/0139-word-break) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/chirag23177/DSA-Qurestions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/chirag23177/DSA-Qurestions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/chirag23177/DSA-Qurestions/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/chirag23177/DSA-Qurestions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/chirag23177/DSA-Qurestions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/chirag23177/DSA-Qurestions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/chirag23177/DSA-Qurestions/tree/master/0242-valid-anagram) |
