@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chirag23177/DSA-Qurestions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/chirag23177/DSA-Qurestions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/chirag23177/DSA-Qurestions/tree/master/2690-house-robber-iv) |
+| [2700-substring-xor-queries](https://github.com/chirag23177/DSA-Qurestions/tree/master/2700-substring-xor-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/chirag23177/DSA-Qurestions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/chirag23177/DSA-Qurestions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/chirag23177/DSA-Qurestions/tree/master/3227-find-missing-and-repeated-values) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chirag23177/DSA-Qurestions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/chirag23177/DSA-Qurestions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/chirag23177/DSA-Qurestions/tree/master/0371-sum-of-two-integers) |
+| [2700-substring-xor-queries](https://github.com/chirag23177/DSA-Qurestions/tree/master/2700-substring-xor-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/chirag23177/DSA-Qurestions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/chirag23177/DSA-Qurestions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/chirag23177/DSA-Qurestions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2700-substring-xor-queries](https://github.com/chirag23177/DSA-Qurestions/tree/master/2700-substring-xor-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/chirag23177/DSA-Qurestions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/chirag23177/DSA-Qurestions/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/chirag23177/DSA-Qurestions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/chirag23177/DSA-Qurestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/chirag23177/DSA-Qurestions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/chirag23177/DSA-Qurestions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2700-substring-xor-queries](https://github.com/chirag23177/DSA-Qurestions/tree/master/2700-substring-xor-queries) |
 | [3447-clear-digits](https://github.com/chirag23177/DSA-Qurestions/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/chirag23177/DSA-Qurestions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
