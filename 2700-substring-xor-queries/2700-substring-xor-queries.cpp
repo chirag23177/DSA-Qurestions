@@ -28,7 +28,6 @@ public:
             int first = query[0];
             int second = query[1];
             int target = first^second;
-            bool found = false;
 
             if(hmap.find(target) != hmap.end()){
                 res.push_back({hmap[target].first, hmap[target].second});
