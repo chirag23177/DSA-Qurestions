@@ -17,7 +17,6 @@ public:
         for(int i = nums.size(); i>=0 && res.size()<k; i--){
             for(auto num: buckets[i]){
                 res.push_back(num);
-                // if()
             }
         }
 
